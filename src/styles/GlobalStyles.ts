@@ -11,15 +11,19 @@ export default createGlobalStyle`
         min-height: 100%;
         background: var(--primary)
     }
+
     *, button, input{
         border: 0;
         background: none;
         font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-        color: var(--black)
+        color: var(--black);
+        transition: color .2s ease-out;
     }
-    ul{
-        list-style: none;
+
+    ul {
+         list-style: none;
     }
+    
     :root{
         --primary: #fff;
         --black: #1b1f23;
@@ -30,12 +34,12 @@ export default createGlobalStyle`
         --logo: #fff;
         --header: #24292e;
         --username: #666;
-        --search: rgba(255; 255; 255; 0.13);
-        --search-placeholder: hsla(0;0%;100%;.75);
+        --search: rgba(255, 255, 255, 0.13);
+        --search-placeholder: hsla(0, 0%, 100%, .75);
         --icon: #6a737d;
         --link: #0366d6;
         --border: #e1e4e8;
-        --ticker: rgba(209;213;218;.5);
+        --ticker: rgba(209, 213, 218,.5);
         
         --calendar-scale-0: #ebedf0;
         --calendar-scale-1: #9BE9A8;

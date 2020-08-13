@@ -3,12 +3,12 @@ import { useNavigate } from "react-router-dom";
 
 import { Container, GithubLogo, SearchForm } from "./styles";
 
-// import { ThemeName } from "../../styles/themes";
+import { ThemeName } from "../../styles/themes";
 
-// interface Props {
-//   themeName: ThemeName;
-//   setThemeName: (newName: ThemeName) => void;
-// }
+interface Props {
+  themeName: ThemeName;
+  setThemeName: (newName: ThemeName) => void;
+}
 
 const Header: React.FC<Props> = ({ themeName, setThemeName }) => {
   const [search, setSearch] = useState("");

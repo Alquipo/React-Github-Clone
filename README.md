@@ -18,9 +18,10 @@
 
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?color=blue">
 
-<!-- <a href="https://app.netlify.com/sites/alquipo-discord-clone/deploys">
-    <img alt="Netlify" src="https://api.netlify.com/api/v1/badges/9d272332-9a77-4519-80d0-b9b1f9951e3b/deploy-status">
-</a> -->
+<a href="https://app.netlify.com/sites/alquipo-github-clone/deploys">
+    <img alt="Netlify" src="https://api.netlify.com/api/v1/badges/92d16213-20ec-4f59-9bfa-14f7c78ef87a/deploy-status">
+</a> 
+
 
 </p>
 

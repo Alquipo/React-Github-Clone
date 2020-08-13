@@ -47,7 +47,7 @@ Este é um projeto que consiste em criar um clone da página Web do GitHub que f
 
 <div align="center">
 
-<button><a target="_blank" href="github-clone.alquipo.dev"><img alt="Demo" src=".github/netlify.svg" ></img></a></button>
+<button><a target="_blank" href="https://github-clone.alquipo.dev"><img alt="Demo" src=".github/netlify.svg" ></img></a></button>
 
 </div> 
 

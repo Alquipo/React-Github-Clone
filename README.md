@@ -45,11 +45,11 @@ Este é um projeto que consiste em criar um clone da página Web do GitHub que f
   <img  alt="Original" title="Discord" src=".github/dark.png"  width="500"/>
 </p>
 
-<!-- <div align="center">
+<div align="center">
 
-<button><a target="_blank" href="https://alquipo-discord-clone.netlify.app/"><img alt="Demo" src=".github/netlify.svg" ></img></a></button>
+<button><a target="_blank" href="github-clone.alquipo.dev"><img alt="Demo" src=".github/netlify.svg" ></img></a></button>
 
-</div> -->
+</div> 
 
 ## 🔨 Tecnologias:
 
